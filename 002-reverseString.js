@@ -21,3 +21,5 @@ let reverseString = str => {
     .reverse()
     .join("");
 };
+
+reverseString("hello");
