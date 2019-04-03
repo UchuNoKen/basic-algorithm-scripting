@@ -1,8 +1,8 @@
 /**
- *
  * 012 - Slice and Splice
- *
- *
+ * @param {*} arr1
+ * @param {*} arr2
+ * @param {*} n
  */
 
 // Use slice and splice to copy each element of the first array into the second
