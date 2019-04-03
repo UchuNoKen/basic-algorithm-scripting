@@ -2,7 +2,7 @@
  *
  * 010 - Boolean Primitive
  *
- *
+ * @param {*} bool
  */
 
 // Check if a value is a boolean primitive

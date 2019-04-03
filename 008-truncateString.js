@@ -1,6 +1,9 @@
 /**
+ *
  * 008 - Truncate A String
  *
+ * @param {*} str
+ * @param {*} num
  */
 
 // 1. Strings are immutable in JavaScript so we will need a new variable to store the truncated string.

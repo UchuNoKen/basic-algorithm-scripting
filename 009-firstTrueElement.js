@@ -2,8 +2,9 @@
  *
  * 009 - Finders Keepers
  *
+ * @param {*} arr
+ * @param {*} func
  */
-
 // Create function to iterate an array(first arg) and return the first element
 // that returns true(second argument).  If none pass, return undefined
 

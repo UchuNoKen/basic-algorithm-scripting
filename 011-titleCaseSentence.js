@@ -2,7 +2,7 @@
  *
  * 011 - titleCaseSentence
  *
- *
+ * @param {*} str
  */
 
 // Return string with first letter of each word capitalized
