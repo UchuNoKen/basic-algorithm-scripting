@@ -47,6 +47,8 @@ let chunkArrayInGroups = (arr, size) => {
   return _2dArray;
 };
 
+chunkArrayInGroups(["a", "b", "c", "d"], 2);
+
 // Firstly, we create a variable. newArr is an empty array which we will push to.
 // Our while loop loops until the length of the array in our test is not 0.
 // Inside our loop, we push to the newArr array using arr.splice(0, size).
