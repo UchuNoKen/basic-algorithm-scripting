@@ -89,3 +89,14 @@ getIndexToIns([1, 3, 4], 2); // 1
 // Then we use sort() with the callback arrow function (a, b) => return a-b to sort the numbers
 // in ascending order
 // Lastly we return the postion or index of num in the array with the indexOf() method
+
+// my arrow function
+
+let getIndexToIns = (arr, num) => {
+  return arr
+    .concat(num)
+    .sort((a, b) => a - b)
+    .indexOf(num);
+};
+
+getIndexToIns([40, 60], 50);
